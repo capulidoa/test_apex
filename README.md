@@ -1,5 +1,9 @@
 # test_apex
 
+Dentro de la carpeta app encontrara el Script clean_data el cual contiene la limpieza y la creacion de la Base de datos SQLite.
+
+Los demas archivos corresponden al fastapi
+
 Resultados:
 
 Promedio por producto de categoria
