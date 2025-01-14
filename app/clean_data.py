@@ -106,10 +106,4 @@ WHERE outliers IS NULL;
 """)
 
 con.commit()
-
-tables_query = "SELECT * FROM best_sales_day;"
-average = pd.read_sql(tables_query, con)
-
 con.close()
-print("sale per product")
-print(average)
