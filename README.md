@@ -6,9 +6,6 @@ Los demas archivos corresponden al fastapi
 
 Resultados:
 
-Promedio por producto de categoria
-
-
 ![image](https://github.com/user-attachments/assets/af1692c8-fbbf-4f57-888c-be57db4c3a07)
 
 ![image](https://github.com/user-attachments/assets/f47dd258-856e-4719-9c69-078ac927fd50)
